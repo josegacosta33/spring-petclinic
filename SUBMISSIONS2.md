@@ -2,7 +2,7 @@ DOCKER
 5 pts Your dockerfile. Please provide a link to this file rather than a screen capture.
 http://localhost:8484/
 5 pts Your running docker instance as shown by a ps command.
-![Screen Capture #2](images2/Screenshot#2.jpg)
+![Screen Capture #2](images2/Screenshot#2.JPG)
 5 pts Your browser accessing the main page of the website from your local container.
 ![Screen Capture #3](images2/Screenshot#3.jpg)
 DOCKER COMPOSE - MYSQL ONLY
